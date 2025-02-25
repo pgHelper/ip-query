@@ -50,10 +50,10 @@
 
 如果您对本隐私政策有任何疑问，请联系我们：
 
-- 邮箱：your@email.com
-- 地址：您的地址
+- 邮箱：kobe969697@proton.me
+
 - 网站：https://pgiphelper.github.io/ip-query/privacy-policy
 
 ## 七、其他
 
-本隐私政策的解释权归本应用所有。
+本隐私政策的解释权归本应用所有。应用所有。
