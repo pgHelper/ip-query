@@ -51,7 +51,7 @@
 
 如果您对本隐私政策有任何疑问，请联系我们：
 
-- 邮箱：kobe969697@proton.me
+- 邮箱：kobe969697@outlook.com
 
 - 网站：https://pgiphelper.github.io/ip-query/privacy-policy
 
